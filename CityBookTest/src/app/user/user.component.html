@@ -1,0 +1,38 @@
+<a routerLink="/instructions" (click)="SaveUser(this.userForm.value)"> Instructions </a>
+
+
+<h1>Edit your details</h1>
+<form [formGroup]="userForm">
+
+    <label>First Name: </label>
+    <input #UserFirstName formControlName="UserFirstName" required pattern="[a-zA-Z ]*" />
+    <br><br>
+    <label>Last name :</label>
+    <input #UserLastName formControlName="UserLastName" required /><br><br>
+    <label>ID number :</label>
+    <input #UserTz formControlName="UserTz" required /><br><br>
+    <label>Date of birth: </label>
+    <input #BornDate formControlName="BornDate" type="date" required /><br><br>
+    <label>Male Or Female :</label>
+    <select #MaleOrFemale formControlName="MaleOrFemale" required>
+        <option value="Male">Male</option>
+        <option value="Female">Female</option>
+    </select><br><br>
+    <label>HMO: </label>
+    <input #HMO formControlName="HMO" required /><br><br>
+
+    <h2>Children</h2>
+
+    <div formArrayName="Children">
+        <div *ngFor="let child of newChild.controls; let childIndex=index" [formGroupName]="childIndex">
+            <label> Name :<input formControlName="ChildName" required /> </label>
+            <label> ID number :</label><input formControlName="ChildTz" required />
+            <label> Date of birth :</label><input formControlName="ChildBornDate" type="date" required />
+
+            <button type="button" (click)="DeleteChild(childIndex)">Delete child</button>
+        </div>
+        <button type="button" (click)="addChild()">Add child</button>
+    </div><br>
+    <button type="submit" 
+        (click)="AddUser(this.userForm.value)">submit</button> 
+</form>

@@ -1,0 +1,11 @@
+c:\users\user\source\repos\CityBookProject\DAL\bin\Debug\DAL.dll.config
+c:\users\user\source\repos\CityBookProject\DAL\bin\Debug\DAL.dll
+c:\users\user\source\repos\CityBookProject\DAL\bin\Debug\DAL.pdb
+c:\users\user\source\repos\CityBookProject\DAL\bin\Debug\EntityFramework.dll
+c:\users\user\source\repos\CityBookProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\source\repos\CityBookProject\DAL\bin\Debug\EntityFramework.xml
+c:\users\user\source\repos\CityBookProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\source\repos\CityBookProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\CityBookProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\CityBookProject\DAL\obj\Debug\DAL.dll
+c:\users\user\source\repos\CityBookProject\DAL\obj\Debug\DAL.pdb

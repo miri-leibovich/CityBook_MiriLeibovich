@@ -1,0 +1,13 @@
+c:\users\user\source\repos\CityBookProject\BL\bin\Debug\BL.dll
+c:\users\user\source\repos\CityBookProject\BL\bin\Debug\BL.pdb
+c:\users\user\source\repos\CityBookProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\CityBookProject\BL\obj\Debug\BL.dll
+c:\users\user\source\repos\CityBookProject\BL\obj\Debug\BL.pdb
+c:\users\user\source\repos\CityBookProject\BL\bin\Debug\DAL.dll
+c:\users\user\source\repos\CityBookProject\BL\bin\Debug\DTO.dll
+c:\users\user\source\repos\CityBookProject\BL\bin\Debug\EntityFramework.dll
+c:\users\user\source\repos\CityBookProject\BL\bin\Debug\DAL.pdb
+c:\users\user\source\repos\CityBookProject\BL\bin\Debug\DAL.dll.config
+c:\users\user\source\repos\CityBookProject\BL\bin\Debug\DTO.pdb
+c:\users\user\source\repos\CityBookProject\BL\bin\Debug\EntityFramework.xml
+c:\users\user\source\repos\CityBookProject\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache

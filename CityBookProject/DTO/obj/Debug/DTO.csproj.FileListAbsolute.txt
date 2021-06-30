@@ -1,0 +1,6 @@
+c:\users\user\source\repos\CityBookProject\DTO\bin\Debug\DTO.dll
+c:\users\user\source\repos\CityBookProject\DTO\bin\Debug\DTO.pdb
+c:\users\user\source\repos\CityBookProject\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\CityBookProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\CityBookProject\DTO\obj\Debug\DTO.dll
+c:\users\user\source\repos\CityBookProject\DTO\obj\Debug\DTO.pdb
